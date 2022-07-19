@@ -1,1 +1,6 @@
-second function
+#include "Warrior.h"
+
+int main
+{
+
+}
